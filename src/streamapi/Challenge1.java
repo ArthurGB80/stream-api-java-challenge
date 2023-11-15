@@ -1,9 +1,10 @@
-package prob1;
+package streamapi;
+
 import java.util.Arrays;
 import java.util.List;
 import java.util.stream.Collectors;
 
-public class Main {
+public class Challenge1 {
     public static void main(String[] args) throws Exception {
 
         // Challenge 1 - Display the list in numerical order:

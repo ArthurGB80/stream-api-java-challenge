@@ -1,9 +1,9 @@
-package prob6;
+package streamapi;
 
 import java.util.Arrays;
 import java.util.List;
 
-public class Main {
+public class Challenge6 {
     public static void main(String[] args) throws Exception {
 
         // Challenge 6 - Check if the list contains any number greater than 10:

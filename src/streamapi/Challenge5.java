@@ -1,9 +1,9 @@
-package prob5;
+package streamapi;
 
 import java.util.Arrays;
 import java.util.List;
 
-public class Main {
+public class Challenge5 {
     public static void main(String[] args) throws Exception {
 
         // Challenge 5 - Calculate the average of numbers greater than 5:

@@ -1,9 +1,9 @@
-package prob4;
+package streamapi;
 
 import java.util.Arrays;
 import java.util.List;
 
-public class Main {
+public class Challenge4 {
     public static void main(String[] args) throws Exception {
 
         // Challenge 4 - Remove all odd values:

@@ -1,9 +1,9 @@
-package prob3;
+package streamapi;
 
 import java.util.Arrays;
 import java.util.List;
 
-public class Main {
+public class Challenge3 {
     public static void main(String[] args) throws Exception {
 
         // Challenge 3 - Check if all numbers in the list are positive:

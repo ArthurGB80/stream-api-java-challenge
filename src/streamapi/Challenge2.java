@@ -1,9 +1,8 @@
-package prob2;
-
+package streamapi;
 import java.util.Arrays;
 import java.util.List;
 
-public class Main {
+public class Challenge2 {
     public static void main(String[] args) throws Exception {
 
         // Challenge 2 - Print the sum of the even numbers in the list:
