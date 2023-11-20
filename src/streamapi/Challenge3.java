@@ -7,8 +7,7 @@ public class Challenge3 {
     public static void main(String[] args) throws Exception {
 
         // Challenge 3 - Check if all numbers in the list are positive:
-        // With the help of the Stream API, verify if all numbers in the list are
-        // positive and display the result in the console.
+        // With the help of the Stream API, verify if all numbers in the list are positive and display the result in the console.
 
         List<Integer> numbers = Arrays.asList(1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 5, 4, 3);
 
